@@ -75,24 +75,9 @@ Potential areas for future exploration:
 - numpy
 - matplotlib/seaborn (for visualization)
 
-## Setup and Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/wine-classification-project.git
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-# Install required dependencies
-pip install -r requirements.txt
-```
 
 ## Contact
 
 For more information, questions, or collaboration opportunities, please reach out.
 
-## License
 
-[Specify your project's license here]
